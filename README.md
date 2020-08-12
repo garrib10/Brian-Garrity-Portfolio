@@ -24,4 +24,6 @@
 - Must contain your personalized information. (bio, name, images, links to social media, etc.)
 
 
-- Must properly utilize Bootstrap components and grid system.-
+- Must properly utilize Bootstrap components and grid system.
+
+- Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site (Hint: Check out the Bootstrap documentation).
