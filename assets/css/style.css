@@ -1,90 +1,35 @@
-* {
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-  }
+
   
   body {
-    background-image: url(https://images.unsplash.com/photo-1584097498342-225afadce135?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=andrew-buchanan-VvaFCigIDhg-unsplash.jpg);
+    background-image: url(https://images.unsplash.com/photo-1588421357574-87938a86fa28?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=sincerely-media-gPnHi8AmO5k-unsplash.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
-    width: %;
+    width: 100%;
     height: 100%;
   }
   
-
-  
-  .about-me {
-   
-  }
-  
-  .about-me h1 {
-
-  }
-  
-  .about-me p {
-  
-  }
-  
-  .about-me img {
-   
-  }
-  .portfolio {
-  
-  }
-  .portfolio h1 {
-
-  }
-  .portfolio img {
-  
-  }
-  
-  .contact {
-
-  }
-  
-  .contact h1 {
-
-  }
-  
-  .contact {
  
-  }
   
+  img {
+    border-radius: 8px;
+    padding:10;
+    border-style: solid;
+   }
+   h2 {
+     font-size: 18px;
+     text-align: left;
+   
+     
+   }
+  .p {
+    font-size: 20px;
+    text-align: center;
+    position: absolute; 
+    
+  }
+ 
 
-  #footer-li {
-    text-align: left;
-    margin-right: 10px;
-  }
-  /* Extra small devices (phones, less than 768px) */
-  /* No media query since this is the default in Bootstrap */
-  @media screen and (max-width:  400px) {
-   body {
-      width: 100%;
-      margin-right: 10px;
-      margin-top: 10px;
-    }
-  
-    .portfolio {
-      margin-right: 20px;
-      margin-left: 20px;
-      min-width: 250px ;
-      max-width: 250px;
-      margin-top: 30px;
-    }
-    .about-me {
-      min-width: 200px;
-      margin-right: 20px;
-      margin-left: 20px;
-      margin-top: 20px;
-    }
-  
-    .contact {
-      min-width: 200px;
-      margin-right: 20px;
-      margin-left: 20px;
-    }
-    .contact p {
-      padding: 15px;
-    }
+
+
+ 
