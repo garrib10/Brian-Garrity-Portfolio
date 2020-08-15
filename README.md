@@ -1,9 +1,7 @@
 # Brian-Garrity-Portfolio
 
-- Functional, deployed application
+- Finish CSS Style Sheet 
 
-
-- GitHub repository with README describing the project
 
 
 - Navbar on each page must contain links to Home/About, Contact, and Portfolio pages. (Complete )
