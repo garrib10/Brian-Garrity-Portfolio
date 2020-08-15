@@ -1,0 +1,114 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+  
+  body {
+    background-image: url(https://images.unsplash.com/photo-1487088678257-3a541e6e3922?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=patrick-tomasso-QMDap1TAu0g-unsplash.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    width: %;
+    height: 100%;
+  }
+  
+
+  
+  .about-me {
+   
+  }
+  
+  .about-me h1 {
+
+  }
+  
+  .about-me p {
+  
+  }
+  
+  .about-me img {
+ 
+  }
+  .portfolio {
+  
+  }
+  .portfolio h1 {
+
+  }
+  .portfolio img {
+  
+  }
+  
+  .contact {
+
+  }
+  
+  .contact h1 {
+
+  }
+  
+  .contact {
+ 
+  }
+  
+
+  #footer-li {
+    text-align: left;
+    margin-right: 10px;
+  }
+  /* Extra small devices (phones, less than 768px) */
+  /* No media query since this is the default in Bootstrap */
+  @media screen and (max-width:  400px) {
+   body {
+      width: 100%;
+      margin-right: 10px;
+      margin-top: 10px;
+    }
+  
+    .portfolio {
+      margin-right: 20px;
+      margin-left: 20px;
+      min-width: 250px ;
+      max-width: 250px;
+      margin-top: 30px;
+    }
+    .about-me {
+      min-width: 200px;
+      margin-right: 20px;
+      margin-left: 20px;
+      margin-top: 20px;
+    }
+  
+    .contact {
+      min-width: 200px;
+      margin-right: 20px;
+      margin-left: 20px;
+    }
+    .contact p {
+      padding: 15px;
+    }
+  
+  
+  }
+  /* Small devices (tablets, 768px and up) */
+  @media screen and (max-width: < 768px) {
+   body{ width: 100%;
+   
+  }
+  
+  /* Medium devices (desktops, 992px and up) */
+  @media screen and (max-width: < 992px) {
+   body {
+     width: 100%;
+    
+   }
+  }
+  
+  /* Large devices (large desktops, 1200px and up) */
+  @media screen and (max-width: 1200px) {
+   body {
+    width: 100%;
+   
+   }
+  }

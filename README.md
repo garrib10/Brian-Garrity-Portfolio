@@ -6,24 +6,17 @@
 - GitHub repository with README describing the project
 
 
-- Navbar must be consistent on each page. (Complete)
-
-
 - Navbar on each page must contain links to Home/About, Contact, and Portfolio pages. (Complete )
-
-
-- All links must work.
-
 
 - Must use semantic html.
 
 
-- Each page must have valid and correct HTML. (use a validation service)
+- Each page must have valid and correct HTML. (use a validation service) (Complete)
 
 
-- Must contain your personalized information. (bio, name, images, links to social media, etc.)
+- Must contain your personalized information. (bio, name, images, links to social media, etc.)   (Just Need Social Media )
 
 
-- Must properly utilize Bootstrap components and grid system.
+- Must properly utilize Bootstrap components and grid system.   (Need To Work on Grid System )
 
 - Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site (Hint: Check out the Bootstrap documentation).
