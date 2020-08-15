@@ -6,10 +6,10 @@
 - GitHub repository with README describing the project
 
 
-- Navbar must be consistent on each page.
+- Navbar must be consistent on each page. (Complete)
 
 
-- Navbar on each page must contain links to Home/About, Contact, and Portfolio pages.
+- Navbar on each page must contain links to Home/About, Contact, and Portfolio pages. (Complete )
 
 
 - All links must work.
