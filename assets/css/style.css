@@ -5,7 +5,7 @@
   }
   
   body {
-    background-image: url(https://images.unsplash.com/photo-1487088678257-3a541e6e3922?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=patrick-tomasso-QMDap1TAu0g-unsplash.jpg);
+    background-image: url(https://images.unsplash.com/photo-1584097498342-225afadce135?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=andrew-buchanan-VvaFCigIDhg-unsplash.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
@@ -28,7 +28,7 @@
   }
   
   .about-me img {
- 
+   
   }
   .portfolio {
   
@@ -88,27 +88,3 @@
     .contact p {
       padding: 15px;
     }
-  
-  
-  }
-  /* Small devices (tablets, 768px and up) */
-  @media screen and (max-width: < 768px) {
-   body{ width: 100%;
-   
-  }
-  
-  /* Medium devices (desktops, 992px and up) */
-  @media screen and (max-width: < 992px) {
-   body {
-     width: 100%;
-    
-   }
-  }
-  
-  /* Large devices (large desktops, 1200px and up) */
-  @media screen and (max-width: 1200px) {
-   body {
-    width: 100%;
-   
-   }
-  }
