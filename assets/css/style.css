@@ -11,10 +11,11 @@
   
  
   
-  img {
-    border-radius: 8px;
-    padding:10;
-    border-style: solid;
+  .img {
+    border: solid;
+    padding:10px;
+   
+    
    }
    h2 {
      font-size: 18px;
