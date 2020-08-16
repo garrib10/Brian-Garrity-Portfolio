@@ -61,23 +61,10 @@
   margin-right: 100px;
   padding-top: 20px;
 }
-
-.contact h1 {
-  color: #dfe4ec;
-  padding: 10px;
-  border-bottom: #287bff solid 1px;
-  background-color: #282828;
-}
-
-
 #send-button {
   margin-bottom: 20px;
 }
 
-#footer-li {
-  text-align: left;
-  margin-right: 10px;
-}
 /* Extra small devices (phones, less than 768px) */
 /* No media query since this is the default in Bootstrap */
 @media screen and (max-width:  400px) {
@@ -135,4 +122,4 @@
 }
 
 
- 
+</style> 
