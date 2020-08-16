@@ -2,6 +2,7 @@
 
 
 Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
+<br> 
 For this assignment, we were told to make a Web Resposive Portfolio. With what we learned with CSS and Bootstrap, we were told to make a website that can we accessed with all devices. We were told two make 3 different html files, and add a navbar to the top of the page. Also, we were told to use the grid system 
 
 
