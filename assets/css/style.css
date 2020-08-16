@@ -40,26 +40,11 @@
   margin-right: 100px;
   padding-top: 20px;
 }
-.portfolio h1 {
-  padding-right: 10px;
-  padding-top: 20px;
-  margin-left: 20px;
-  padding-left: 20px;
-  margin-bottom: 20px;
-  padding-bottom: 10px;
-}
+
+
 .portfolio img {
   padding: 10px;
   max-width: 300px;
-}
-
-.contact {
-  color: black;
-  height: 1060px;
-  margin-top: 150px;
-  margin-left: 200px;
-  margin-right: 100px;
-  padding-top: 20px;
 }
 #send-button {
   margin-bottom: 20px;
