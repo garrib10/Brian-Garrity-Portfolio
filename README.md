@@ -1,9 +1,9 @@
 # Brian-Garrity-Portfolio 
 
-For this assignment, we were told to make a Web Resposive Portfolio. With what we learned with CSS and Bootstrap, we were told to make a website that can we accessed with all devices. We were told two make 3 different html files, and add a navbar to the top of the page. Also, we were told to use the grid system 
 
 Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
-Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application.
+For this assignment, we were told to make a Web Resposive Portfolio. With what we learned with CSS and Bootstrap, we were told to make a website that can we accessed with all devices. We were told two make 3 different html files, and add a navbar to the top of the page. Also, we were told to use the grid system 
+
 
 Directions
 First, you will use the Bootstrap CSS Framework to create a mobile responsive portfolio. How do you deliver this? Here are some guidelines:
