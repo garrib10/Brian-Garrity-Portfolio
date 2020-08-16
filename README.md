@@ -1,6 +1,6 @@
 # Brian-Garrity-Portfolio
 
-- Finish CSS Style Sheet 
+
 
 
 
