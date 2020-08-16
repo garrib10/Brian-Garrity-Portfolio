@@ -1,4 +1,4 @@
-# Brian-Garrity-Portfolio 
+## [Brian-Garrity-Portfolio](https://garrib10.github.io/Brian-Garrity-Portfolio/.)
 
 
 Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
