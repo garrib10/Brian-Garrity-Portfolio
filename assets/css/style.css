@@ -10,7 +10,7 @@
   }
   
   .navbar{
-    margin-bottom: 20px;
+    margin-bottom: 5px;
   }
   .card {
    display:flex;
@@ -18,11 +18,11 @@
    margin-top: 40px;
    font-size: 20px;
   }
-  
   img {
     border: solid;
-    padding:10px;
-    width: 350px;
+    padding:2px;
+    width: 250px;
+    position:static;
    
     
   }
@@ -63,5 +63,5 @@
   background-image: url("../images/portfolio-pics/Screen\ Shot\ 2020-09-27\ at\ 6.30.08\ PM.png");
 }
 .picture {
-  width: 300px
+  width: 200px
 }
