@@ -72,3 +72,11 @@
 .card-body{
   vertical-align: inherit;
 }
+
+h4{
+  text-align: center;
+}
+
+button{
+  align-content: center;
+}
