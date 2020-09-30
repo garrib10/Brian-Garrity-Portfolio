@@ -11,6 +11,7 @@
   
   .navbar{
     margin-bottom: 5px;
+    
   }
   .card {
    display:flex;
@@ -47,6 +48,7 @@
   margin-right: 100px;
   padding-top: 20px;
   text-align: center;
+  align-content: center;
 }
 
 .portfolio-image {
