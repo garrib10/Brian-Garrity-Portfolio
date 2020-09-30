@@ -35,6 +35,7 @@
     text-align: center;
     position: absolute; 
     text-emphasis-style: bold ;
+    color: black;
     
   }
  
@@ -45,23 +46,27 @@
   margin-left: 200px;
   margin-right: 100px;
   padding-top: 20px;
+  text-align: center;
 }
-
 
 .portfolio-image {
   position: absolute;
   padding: 10px;
   max-width: 300px;
+
 }
-#send-button {
-  margin-bottom: 20px;
+
+.thumbnail{
+  border: solid;
+  padding: 2px;
+  border-color: black;
 }
-#project-one{
-  background-image: url("../images/portfolio-pics/Screen\ Shot\ 2020-09-19\ at\ 11.05.38\ PM.png");
+.card-title{
+  color:black;
 }
-#project-two{
-  background-image: url("../images/portfolio-pics/Screen\ Shot\ 2020-09-27\ at\ 6.30.08\ PM.png");
+.card-text{
+  color: black;
 }
-.picture {
-  width: 200px
+.card-body{
+  vertical-align: inherit;
 }
