@@ -63,6 +63,7 @@
   padding: 2px;
   border-color: black;
 }
+
 .card-title{
   color:black;
 }
@@ -70,7 +71,8 @@
   color: black;
 }
 .card-body{
-  vertical-align: inherit;
+  vertical-align:inherit;
+  
 }
 
 h4{
@@ -82,4 +84,8 @@ a{
 }
 i{
   color:black;
+}
+
+h1{
+  text-align: center;
 }
