@@ -1,7 +1,7 @@
 
-Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
+Unit 08 Project 1 Homework: Professional Materials
 <br> 
-For this assignment, we were told to make a Web Resposive Portfolio. With what we learned with CSS and Bootstrap, we were told to make a website that can we accessed with all devices. We were told two make 3 different html files, and add a navbar to the top of the page. Also, we were told to use the grid system 
+For this assignment, we were told to update our Web Resposive Portfolio. With what we learned with CSS and Bootstrap, we were told to make a website that can we accessed with all devices. We were told two make 3 different html files, and add a navbar to the top of the page. Also, we were told to use the grid system. Update: I was able to make the layout look a little cleaner for 2 of the pages. Also, the form looks a lot better now on the contact.html. I did have a little trouble with the portfolio.html  grid system but I feel like I am happy with what I have so far.
 
 
 The Criteria is the following: 
