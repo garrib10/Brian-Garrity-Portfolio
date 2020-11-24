@@ -64,6 +64,10 @@
   border-color: black;
 }
 
+.card  {
+  margin:  50px;
+ }
+
 .card-title{
   color:black;
 }
@@ -72,6 +76,7 @@
 }
 .card-body{
   vertical-align:inherit;
+  
   
 }
 
