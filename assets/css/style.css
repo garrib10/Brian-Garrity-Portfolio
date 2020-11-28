@@ -19,14 +19,20 @@
    margin-top: 40px;
    font-size: 20px;
   }
+
+  .card-body{
+    width: 300px;
+  margin: 0 auto; 
+  position: static;
+  }
+  
   img {
     border: solid;
     padding:2px;
     width: 300px;
-    position:static;
-   
-    
-  }
+    position: static; 
+   }
+  
    h2 {
      font-size: 18px;
      text-align: left;
