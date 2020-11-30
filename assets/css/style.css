@@ -13,13 +13,12 @@
     margin-bottom: 5px;
     
   }
-   div{
-     text-align: center;
-   }
+ 
   #about-me{
     margin: 0 auto;
     max-width: 720px;
-    text-align: center;
+    text-align: left;
+   
     
   }
    
@@ -53,7 +52,7 @@
   
    h2 {
      font-size: 18px;
-     text-align: center;
+     text-align: left;
     }
   .p {
     font-size: 30px;
