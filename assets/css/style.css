@@ -13,11 +13,21 @@
     margin-bottom: 5px;
     
   }
+   div{
+     text-align: center;
+   }
+  #about-me{
+    margin: 0 auto;
+    max-width: 720px;
+    text-align: center;
+    
+  }
+   
   .card {
    display:flex;
-   flex-direction: row;
    margin-top: 40px;
    font-size: 20px;
+  
   }
 
   .card-body{
@@ -25,21 +35,29 @@
   margin: 0 auto; 
   position: static;
   }
-  
+   #profile-pic{
+     width: 150px;
+    float: left;
+     /* position: absolute; */
+     margin-left: 0;
+     height: 45%;
+     margin: 10px;
+
+   }
   img {
     border: solid;
     padding:2px;
     width: 300px;
-    position: static; 
+  
    }
   
    h2 {
      font-size: 18px;
-     text-align: left;
+     text-align: center;
     }
   .p {
     font-size: 30px;
-    text-align: center;
+    text-align: left;
     position: absolute; 
     text-emphasis-style: bold ;
     color: black;
@@ -58,7 +76,7 @@
 }
 
 .portfolio-image {
-  position: absolute;
+  position: static;
   padding: 10px;
   max-width: 300px;
 
