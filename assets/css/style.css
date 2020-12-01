@@ -37,7 +37,6 @@
    #profile-pic{
      width: 150px;
     float: left;
-     /* position: absolute; */
      margin-left: 0;
      height: 45%;
      margin: 10px;
@@ -68,7 +67,7 @@
   height: 1060px;
   margin-top: 150px;
   margin-left: 200px;
-  margin-right: 100px;
+  margin-right: 120px;
   padding-top: 20px;
   text-align: center;
   align-content: center;
