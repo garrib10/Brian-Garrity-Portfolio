@@ -14,13 +14,10 @@
     
   }
   
- 
   #about-me{
     margin: 0 auto;
     max-width: 720px;
     text-align: left;
-   
-    
   }
    
   .card {
@@ -35,14 +32,14 @@
   margin: 0 auto; 
   position: static;
   }
-   #profile-pic{
+  #profile-pic{
      width: 150px;
     float: left;
      margin-left: 0;
      height: 45%;
      margin: 10px;
 
-   }
+  }
   img {
     border: solid;
     padding:2px;
@@ -50,10 +47,8 @@
   
    }
   
-   h2 {
-     font-size: 18px;
-     text-align: left;
-    }
+
+  
   .p {
     font-size: 30px;
     text-align: left;
@@ -87,8 +82,8 @@
   border-color: black;
 }
 
-.card  {
-  margin:  50px;
+.card {
+  margin:  65px;
  }
 
 .card-title{
@@ -102,7 +97,14 @@
   
   
 }
-
+h1{
+  text-align: center;
+}
+h2 {
+  font-size: 18px;
+  font-display: left;
+  
+ }
 h4{
   text-align: center;
 }
@@ -114,7 +116,14 @@ i{
   color:black;
 }
 
-h1{
-  text-align: center;
+#footer{
+  padding: 20px;
+  margin: 0 auto;
+  max-width: 725px;
+  max-height: 120px;
+  
+  
+ 
+  
 }
 
