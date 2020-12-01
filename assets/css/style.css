@@ -121,9 +121,8 @@ i{
   margin: 0 auto;
   max-width: 725px;
   max-height: 120px;
-  
-  
- 
-  
 }
 
+#submit{
+ margin-left: 675px;
+}
