@@ -17,7 +17,8 @@ For this assignment, we were told to update our Web Resposive Portfolio. With wh
 - The URLs of the deployed applications
 - The URLs of the GitHub repositories
 
-Link to Deployed Link: [Brian-Garrity-Portfolio](https://garrib10.github.io/Brian-Garrity-Portfolio/.)
+## Deployed Link 
+Deployed Link:  [Brian-Garrity-Portfolio](https://garrib10.github.io/Brian-Garrity-Portfolio/.)
 
 ## Screenshots
 <img width="1436" alt="Screen Shot 2020-11-30 at 10 29 20 PM" src="https://user-images.githubusercontent.com/68867054/100693868-c67c2f80-335b-11eb-9ea0-4e0bd7a949d7.png">
