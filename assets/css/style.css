@@ -20,7 +20,21 @@
     text-align: left;
     box-shadow: 0 3px 6px rgb(0, 0, 0), 0 3px 6px rgb(0, 0, 0);
   }
-   
+  
+  #follow{
+    margin: 0 auto;
+    max-width: 800px;
+    text-align: left;
+    box-shadow: 0 3px 6px rgb(0, 0, 0), 0 3px 6px rgb(0, 0, 0);
+  }
+
+  #contact{
+    margin: 0 auto;
+    max-width: 800px;
+    text-align: left;
+    box-shadow: 0 3px 6px rgb(0, 0, 0), 0 3px 6px rgb(0, 0, 0);
+  }
+
   .card {
    display:flex;
    margin-top: 40px;
@@ -124,13 +138,5 @@ i{
   color:black;
 }
 
-#footer{
-  padding: 20px;
-  margin: 0 auto;
-  max-width: 725px;
-  max-height: 120px;
-}
 
-#submit{
- margin-left: 675px;
-}
+
