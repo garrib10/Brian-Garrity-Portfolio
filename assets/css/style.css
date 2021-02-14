@@ -16,7 +16,7 @@
   
   #about-me{
     margin: 0 auto;
-    max-width: 800px;
+    max-width: 875px;
     text-align: left;
     box-shadow: 0 3px 6px rgb(0, 0, 0), 0 3px 6px rgb(0, 0, 0);
   }
@@ -50,7 +50,7 @@
   position: static;
   }
   #profile-pic{
-     width: 150px;
+     width: 175px;
     float: left;
      margin-left: 0;
      height: 45%;
