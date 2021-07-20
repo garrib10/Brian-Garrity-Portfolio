@@ -25,5 +25,4 @@ Deployed Link:  [Brian-Garrity-Portfolio](https://garrib10.github.io/Brian-Garri
 
 <img width="1265" alt="Screen Shot 2020-11-30 at 10 29 38 PM" src="https://user-images.githubusercontent.com/68867054/100693918-e6abee80-335b-11eb-94a5-3530a2da9c12.png">
 
-<img width="1438" alt="Screen Shot 2020-11-30 at 10 30 05 PM" src="https://user-images.githubusercontent.com/68867054/100693946-f62b3780-335b-11eb-80bd-f47054d24bdf.png">
-
+<img width="1440" alt="Screen Shot 2021-07-20 at 5 45 09 PM" src="https://user-images.githubusercontent.com/68867054/126399564-5211aaf2-d18a-4e02-8c6d-414e240413f6.png">
