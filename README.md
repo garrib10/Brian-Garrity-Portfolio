@@ -21,7 +21,8 @@ For this assignment, we were told to update our Web Resposive Portfolio. With wh
 Deployed Link:  [Brian-Garrity-Portfolio](https://garrib10.github.io/Brian-Garrity-Portfolio/.)
 
 ## Screenshots
-<img width="1436" alt="Screen Shot 2020-11-30 at 10 29 20 PM" src="https://user-images.githubusercontent.com/68867054/100693868-c67c2f80-335b-11eb-9ea0-4e0bd7a949d7.png">
+<img width="1440" alt="Screen Shot 2021-07-20 at 5 47 10 PM" src="https://user-images.githubusercontent.com/68867054/126399759-0d943b3c-df55-4950-ac89-7e6f70272be0.png">
+
 
 <img width="1265" alt="Screen Shot 2020-11-30 at 10 29 38 PM" src="https://user-images.githubusercontent.com/68867054/100693918-e6abee80-335b-11eb-94a5-3530a2da9c12.png">
 
